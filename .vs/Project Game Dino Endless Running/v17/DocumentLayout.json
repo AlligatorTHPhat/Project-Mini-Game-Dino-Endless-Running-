@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|c:\\users\\tranh\\source\\repos\\project game dino endless running\\project game dino endless running\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\project game dino endless running\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\project game dino endless running\\highest_score.designer.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\highest_score.designer.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\project game dino endless running\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\project game dino endless running\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\project game dino endless running\\highest_score.txt||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{E61077A2-415A-4C7C-A030-970016BB6070}|Project Game Dino Endless Running\\Project Game Dino Endless Running.csproj|solutionrelative:project game dino endless running\\highest_score.txt||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form1.cs",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\Form1.cs",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form1.cs",
+              "RelativeToolTip": "Project Game Dino Endless Running\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:11:45.27Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form2.cs",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\Form2.cs",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form2.cs",
+              "RelativeToolTip": "Project Game Dino Endless Running\\Form2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:09:53.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "highest_score.Designer.txt",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\highest_score.Designer.txt",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\highest_score.Designer.txt",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\highest_score.Designer.txt",
+              "RelativeToolTip": "Project Game Dino Endless Running\\highest_score.Designer.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T08:35:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "highest_score.txt",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\highest_score.txt",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\highest_score.txt",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\highest_score.txt",
+              "RelativeToolTip": "Project Game Dino Endless Running\\highest_score.txt",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T08:35:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form1.cs",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\Form1.cs",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form1.cs [Design]",
+              "RelativeToolTip": "Project Game Dino Endless Running\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:08:22.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form2.cs",
+              "RelativeDocumentMoniker": "Project Game Dino Endless Running\\Form2.cs",
+              "ToolTip": "C:\\Users\\tranh\\source\\repos\\Project Game Dino Endless Running\\Project Game Dino Endless Running\\Form2.cs [Design]",
+              "RelativeToolTip": "Project Game Dino Endless Running\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:09:18.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

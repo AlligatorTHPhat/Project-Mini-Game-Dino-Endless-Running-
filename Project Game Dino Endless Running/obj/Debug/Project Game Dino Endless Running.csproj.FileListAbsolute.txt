@@ -1,0 +1,11 @@
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\bin\Debug\Project Game Dino Endless Running.exe.config
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\bin\Debug\Project Game Dino Endless Running.exe
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\bin\Debug\Project Game Dino Endless Running.pdb
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project Game Dino Endless Running.csproj.AssemblyReference.cache
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project_Game_Dino_Endless_Running.Properties.Resources.resources
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project Game Dino Endless Running.csproj.GenerateResource.cache
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project Game Dino Endless Running.csproj.CoreCompileInputs.cache
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project Game Dino Endless Running.exe
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project Game Dino Endless Running.pdb
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project_Game_Dino_Endless_Running.Form1.resources
+C:\Users\tranh\source\repos\Project Game Dino Endless Running\Project Game Dino Endless Running\obj\Debug\Project_Game_Dino_Endless_Running.Form2.resources
